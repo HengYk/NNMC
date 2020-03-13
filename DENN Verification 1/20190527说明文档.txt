@@ -1,0 +1,6 @@
+当前使用文件如下：
+de-msv-2.m de-msv-2.p 
+in.txt out.txt modified_param_000100.txt
+
+当前验证结果：
+verfy4-1.txt

@@ -1,0 +1,17 @@
+C:\Users\HengYk\Desktop\MSV\MSV>MC.exe 1.p 1.m
+$$$$$$$$$$$$$$$$$$$$$$$$$$
+Modeling.lib(stdafx.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用
+/LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+正在生成代码
+已完成代码的生成
+ThreadPool init success!!!
+main_percents[0]:0.914300024509430
+main_percents[1]:0.912899971008301
+main_percents[2]:0.914799988269806
+
+percent_old: 0.914600014686584
+percent_rand: 0.912899971008301
+Verification Result: Valid!!!
+release ThreadPool success!!!
+The run time is: 462594195ms
+请按任意键继续. . .
